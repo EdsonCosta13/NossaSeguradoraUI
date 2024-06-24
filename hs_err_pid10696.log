@@ -15,7 +15,7 @@
 #   JVM is running with Zero Based Compressed Oops mode in which the Java heap is
 #     placed in the first 32GB address space. The Java Heap base address is the
 #     maximum limit for the native heap growth. Please use -XX:HeapBaseMinAddress
-#     to set the Java Heap base and to place the Java Heap above 32GB virtual address.
+#     to set the Java Heap base and to place the Java Heap above 32GB virtual address. 
 # This output file may be truncated or incomplete.
 #
 #  Out of Memory Error (os_windows.cpp:3530), pid=10696, tid=9164
@@ -30,7 +30,7 @@
 Command Line: -Dclassworlds.conf=C:\Program Files\NetBeans-21\netbeans\java\maven\bin\m2.conf -Dmaven.home=C:\Program Files\NetBeans-21\netbeans\java\maven -Dlibrary.jansi.path=C:\Program Files\NetBeans-21\netbeans\java\maven\lib\jansi-native -Dmaven.multiModuleProjectDirectory=C:\Users\Precision15-FirePro\Documents\Complex UI Project\NossaSegurosUI org.codehaus.plexus.classworlds.launcher.Launcher -Dexec.vmArgs= -Dexec.args=${exec.vmArgs} -classpath %classpath ${exec.mainClass} ${exec.appArgs} -Dexec.appArgs= -Dexec.mainClass=com.mycompany.nossasegurosui.NossaSegurosUI -Dexec.executable=C:\Program Files\Java\jdk-18.0.2.1\bin\java.exe -Dmaven.ext.class.path=C:\Program Files\NetBeans-21\netbeans\java\maven-nblib\netbeans-eventspy.jar --no-transfer-progress process-classes org.codehaus.mojo:exec-maven-plugin:3.1.0:exec
 
 Host: Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz, 8 cores, 15G,  Windows 10 , 64 bit Build 19041 (10.0.19041.3636)
-Time: Sat Jun 22 14:57:58 2024 Hora de Verão de GMT elapsed time: 0.015608 seconds (0d 0h 0m 0s)
+Time: Sat Jun 22 14:57:58 2024 Hora de Verï¿½o de GMT elapsed time: 0.015608 seconds (0d 0h 0m 0s)
 
 ---------------  T H R E A D  ---------------
 
